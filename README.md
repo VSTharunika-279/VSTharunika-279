@@ -1,5 +1,5 @@
 - 👋 Hello Folks, I’m V S Tharunika
-- 👀 I’m interested in Cybersecurity & ML and open to contibuting in any domain of Computer science 
+- 👀 I’m interested in Cybersecurity, UI Design & ML and open to contibuting in any domain of Computer science 
 - 🌱 I’m currently Developing my skills in Competetive coding
 - 🎤 I speak English, Hindi, Tamil and Telugu Fluently
 - 👩 I am very creative, good at designing, strategic, reliable & Trustworthy
